@@ -1,0 +1,7 @@
+python-telegram-bot==21.6
+spacy==3.5.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+pyspellchecker==0.8.2
+python-dotenv==1.0.1
+pdfplumber==0.10.3
+nest-asyncio==1.6.0
